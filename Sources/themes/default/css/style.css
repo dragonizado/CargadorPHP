@@ -1,0 +1,26 @@
+body {
+	background-color: #b0bec5;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+.imagende
+{
+	background-image: url("../img/CodePlus3.PNG");
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 255px;
+	height: 255px;
+}
+.imageniz
+{
+	background-image: url("../img/BrainCoding.PNG");
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 255px;
+	height: 255px;
+}
